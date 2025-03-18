@@ -123,8 +123,8 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
-    'paypal_id' => env('PAYPAL_CLIENT_ID', "AQZ4jPwKxLlLgl8TA6wMN1VTgujcwR2T1tKiqmOxQJpGQXbz6PqdCtaPOBd3ZZJQOUxa07WoDGlrAgFf"),
-    'paypal_secret' => env('PAYPAL_SECRET', "EO9L6Kf6tTXmuU2QHNWpXdQdAYdKRtFTe_c3a47HRpo_-RQID3iWTIsOI7XePMMcorbODYWywQoJzvjS"),
+    'paypal_id' => env('PAYPAL_CLIENT_ID', "id"),
+    'paypal_secret' => env('PAYPAL_SECRET', "secret"),
 
 
 ];
